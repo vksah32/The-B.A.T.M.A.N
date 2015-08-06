@@ -46,7 +46,7 @@ class DisplayApp:
         self.data_file = None #data file csv to be stored
 
         # set the title of the window
-        self.root.title("The B.A.T.M.A.N (Beta-version)")
+        self.root.title("The B.A.T.M.A.N")
         
         # set the maximum size of the window for resizing
         self.root.maxsize( 1600, 900 )
