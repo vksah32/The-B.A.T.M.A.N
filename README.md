@@ -18,4 +18,6 @@ Use Command+O to open any file <br>
 use CTRL + leftmouse to rotate <br>
 hold leftclick and move the plot with right mouse.<br>
 
+
+You will get the following info:
 ![Screen Shot](https://github.com/vksah32/The-B.A.T.M.A.N/blob/master/Screen%20Shot%202015-11-10%20at%207.39.27%20PM.png)
