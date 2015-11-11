@@ -14,6 +14,6 @@ To use the tool, download the repo, navigate to the directory and run this comma
 <b><i> python main.py </i>
 </b>
 
-Use Command+O to open any file
-use CTRL + leftmouse to rotate
-hold leftclick and move the plot with right mouse.
+Use Command+O to open any file <br>
+use CTRL + leftmouse to rotate <br>
+hold leftclick and move the plot with right mouse.<br>
