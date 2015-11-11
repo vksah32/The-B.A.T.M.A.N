@@ -1,8 +1,6 @@
 #Author:Vivek Sah
 
 # using Skeleton Tk interface example
-# Written by Bruce Maxwell
-# Modified by Stephanie Taylor
 # last edited 04/07/15
 # CS 251
 # Spring 2015
